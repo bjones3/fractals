@@ -10,4 +10,4 @@
 
 ![alt text](https://raw.githubusercontent.com/bjones3/fractals/master/imgs/fractal5.png)
 
-![alt text](https://raw.githubusercontent.com/bjones3/fractals/master/imgs/fractal6s.png)
+![alt text](https://raw.githubusercontent.com/bjones3/fractals/master/imgs/fractal6.png)
